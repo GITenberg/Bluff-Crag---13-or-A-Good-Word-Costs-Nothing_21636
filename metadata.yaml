@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9593
 description: "Images of the original pages are available through the International\
   \ Children's Digital Library. See \r\nhttp://www.childrenslibrary.org/icdl/BookPreview?bookid=cupbluf_00360203&route=text"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21636#Bluff-Crag---13-or-A-Good-Word-Costs-Nothing
 gutenberg_issued: '2007-05-28'
 gutenberg_type: Text
 identifiers:
