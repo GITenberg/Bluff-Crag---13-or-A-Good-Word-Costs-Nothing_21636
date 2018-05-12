@@ -1,0 +1,35 @@
+_repo: Bluff-Crag---13-or-A-Good-Word-Costs-Nothing_21636
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21636-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Cupples, George, Mrs.
+    aliases:
+    - Cupples, Ann Jane Dunn Douglas
+    - Cupples, Mrs. (Ann Jane Dunn Douglas)
+    birthdate: 1839
+    deathdate: 1898
+    gutenberg_agent_id: '9593'
+    url: http://www.gutenberg.org/2009/agents/9593
+description: "Images of the original pages are available through the International\
+  \ Children's Digital Library. See \r\nhttp://www.childrenslibrary.org/icdl/BookPreview?bookid=cupbluf_00360203&route=text"
+gutenberg_issued: '2007-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Seashore -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Truthfulness and falsehood -- Juvenile fiction'
+title: Bluff Crag; or, A Good Word Costs Nothing
+url: http://www.gutenberg.org/ebooks/21636
